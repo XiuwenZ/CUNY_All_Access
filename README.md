@@ -1,4 +1,12 @@
 # CUNY-All-Access
+## Inspiration
+With team members across different CUNYs, we tried to see some problems that were prevalent among us all. It seemed most of us had an experience of not being able to swipe our physical IDs across the turnstiles properly and having to awkwardly create a line of students trying to make it to class. Additionally, we know some of our peers who have lost their physical IDs and still do not bother to get a new one because of the price tag to replace it. Even though one could technically gain access to campus resources like the library or the gym through one’s last 4 digits of social security number along with their CUNY EMPL ID, both of these data are highly sensitive.  
+
+Additionally with CUNY campuses being diverse and having as many 25 campuses we can have one commonality and increase campus culture. Also, by providing perks like free events, merchandise etc to all members across CUNY.
+
+## What it does
+It acts as a physical ID card without the risk of theft and loss of data like EMPLYID by being attached to only the user's wallets. Additionally, it provides a way to distinguish between CUNY members to be able to provide fast registration to events, internship opportunities etc. 
+
 ## How we built it
 We built this using a variety of softwares and technologies. NFTexport.io was the foundation of the entire workflow where JSON files and metadata were created. IPFS desktop was used to turn the 3D artwork into a file stored on a decentralized file system. Javascript and Terminal were used hand in hand to finalize the NFT metadata. Perawallet.app enabled us to connect to the Algorand TestNet and mint the NFTs on the TestNet. Echo3D was used to create the 3D moving artwork and cartoonize.net was for visual effects on the original image. 
 
