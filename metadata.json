@@ -1,0 +1,236 @@
+{
+  "name": "My collection",
+  "description": "An innovative and utility-first NFT for CUNY students. Holding this NFT grants you access to exclusive CUNY events, opportunities, and merchandise raffles. Additional perks will be added in the future.",
+  "collection": [
+    {
+      "name": "1",
+      "description": "An innovative and utility-first NFT for CUNY students. Holding this NFT grants you access to exclusive CUNY events, opportunities, and merchandise raffles. Additional perks will be added in the future.",
+      "external_url": "",
+      "image": "1.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "5"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "1.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": []
+      },
+      "compiler": "NFTexport.io"
+    },
+    {
+      "name": "2",
+      "description": "An innovative and utility-first NFT for CUNY students. Holding this NFT grants you access to exclusive CUNY events, opportunities, and merchandise raffles. Additional perks will be added in the future.",
+      "external_url": "",
+      "image": "2.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "3"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "2.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": []
+      },
+      "compiler": "NFTexport.io"
+    },
+    {
+      "name": "3",
+      "description": "An innovative and utility-first NFT for CUNY students. Holding this NFT grants you access to exclusive CUNY events, opportunities, and merchandise raffles. Additional perks will be added in the future.",
+      "external_url": "",
+      "image": "3.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "10"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "3.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": []
+      },
+      "compiler": "NFTexport.io"
+    },
+    {
+      "name": "4",
+      "description": "An innovative and utility-first NFT for CUNY students. Holding this NFT grants you access to exclusive CUNY events, opportunities, and merchandise raffles. Additional perks will be added in the future.",
+      "external_url": "",
+      "image": "4.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "9"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "4.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": []
+      },
+      "compiler": "NFTexport.io"
+    },
+    {
+      "name": "5",
+      "description": "An innovative and utility-first NFT for CUNY students. Holding this NFT grants you access to exclusive CUNY events, opportunities, and merchandise raffles. Additional perks will be added in the future.",
+      "external_url": "",
+      "image": "5.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "7"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "5.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": []
+      },
+      "compiler": "NFTexport.io"
+    },
+    {
+      "name": "6",
+      "description": "An innovative and utility-first NFT for CUNY students. Holding this NFT grants you access to exclusive CUNY events, opportunities, and merchandise raffles. Additional perks will be added in the future.",
+      "external_url": "",
+      "image": "6.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "4"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "6.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": []
+      },
+      "compiler": "NFTexport.io"
+    },
+    {
+      "name": "7",
+      "description": "An innovative and utility-first NFT for CUNY students. Holding this NFT grants you access to exclusive CUNY events, opportunities, and merchandise raffles. Additional perks will be added in the future.",
+      "external_url": "",
+      "image": "7.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "6"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "7.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": []
+      },
+      "compiler": "NFTexport.io"
+    },
+    {
+      "name": "8",
+      "description": "An innovative and utility-first NFT for CUNY students. Holding this NFT grants you access to exclusive CUNY events, opportunities, and merchandise raffles. Additional perks will be added in the future.",
+      "external_url": "",
+      "image": "8.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "8"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "8.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": []
+      },
+      "compiler": "NFTexport.io"
+    },
+    {
+      "name": "9",
+      "description": "An innovative and utility-first NFT for CUNY students. Holding this NFT grants you access to exclusive CUNY events, opportunities, and merchandise raffles. Additional perks will be added in the future.",
+      "external_url": "",
+      "image": "9.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "2"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "9.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": []
+      },
+      "compiler": "NFTexport.io"
+    },
+    {
+      "name": "10",
+      "description": "An innovative and utility-first NFT for CUNY students. Holding this NFT grants you access to exclusive CUNY events, opportunities, and merchandise raffles. Additional perks will be added in the future.",
+      "external_url": "",
+      "image": "10.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "1"
+        }
+      ],
+      "properties": {
+        "files": [
+          {
+            "uri": "10.png",
+            "type": "image/png"
+          }
+        ],
+        "category": "image",
+        "creators": []
+      },
+      "compiler": "NFTexport.io"
+    }
+  ]
+}

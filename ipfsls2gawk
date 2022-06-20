@@ -1,0 +1,4 @@
+_ipfsls2gawk () 
+{ 
+    ipfs ls "${1:-cid}" | gawk '{print "s/\""$(3)"\"/\"ipfs:\\/\\/"$(1)"\"/g"}'
+}
